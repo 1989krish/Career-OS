@@ -18,15 +18,8 @@ To set up the landing page for the Career OS project:
 4. **Feedback and Development:** Engage with peers and mentors for feedback to improve your skills continuously.
 
 ## Future Plans
-### Claude Skills
-We plan to integrate Claude AI skills, which will include:
-- Personalized learning paths based on user interests and career goals.
-- AI-driven feedback mechanism to provide recommendations for skill improvement.  
-
-### Paid Tools
-Future versions will include premium tools that offer advanced features such as:
-- In-depth analytics for tracking skill development progress.
-- Exclusive access to industry experts for personalized mentoring sessions.
+### Free Claude Skills
+ 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
